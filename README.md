@@ -12,18 +12,18 @@ This function resides in the above mentioned module that houses the business log
 This function takes a dictionary "budget_data" as argument with "date" as key and "pnl amount" as value in the dict and 
 return the required metrics in a python list
 
-**3. main.ipynb**
+**3. main.ipynb** <br>
 This is the main script that reads the budget_data.csv, loop through the records and forms a dictionary with date and pnl amount. 
 Then main calls calculate_fin_metrics() inside fin_module by passing the dictionary as formed from budget_data.csv
 Main then catches the return values of calculate_fin_metrics() in a list and print individual list elements to report the metrics in the desired format.
 Main also writed these metrics in a txt file.
 
-**4. bidget_data.csv file**
+**4. bidget_data.csv file** <br>
 This is the input file to main.ipynb script. 
 This has monthly pnl with one record for each month
 Each record has two columns - (1) date and  (2) pnl amount
 
-## How to run the script
+## How to run the script <br>
 Clone the entire "python-homework" repository into a local folder by issuing the following command from gitbash
 $git clone https:\\
 
@@ -32,7 +32,7 @@ $Jupyter lab
 
 Then open main() in jupyter notebook and run each cells one after another
 
-## Important points to note
+## Important points to note <br>
 Retail the folder structure as clones from github. Else path set inside the main is not going to work. 
 Hierarchy inside repository should look like following:
 
