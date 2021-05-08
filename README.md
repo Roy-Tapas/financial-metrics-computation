@@ -39,19 +39,18 @@ Then open main() in jupyter notebook and run each cells one after another
 Retail the folder structure as clones from github. Else path set inside the main is not going to work. 
 Hierarchy inside repository should look like following:
 ```
-python-homework <br>
-     |
-     |-------> PyBank <br>
-        | <br>
-        |---------------> fin_module.py <br>
-        |---------------> main.ipynb <br>
-        |---------------> output.txt <br>
-     |------> PyRamen <br>
-     |------> Resources <br>
-        |---------------> budget_data.csv <br>
-        |---------------> menu_data.csv <br>
-        |---------------> sales_data.csv <br>
-     |------> README.md <br>
+python-homework 
+     |-------> PyBank 
+        | 
+        |---------------> fin_module.py 
+        |---------------> main.ipynb 
+        |---------------> output.txt 
+     |------> PyRamen 
+     |------> Resources 
+        |---------------> budget_data.csv 
+        |---------------> menu_data.csv 
+        |---------------> sales_data.csv 
+     |------> README.md 
 ```
 
 ## Scripts for PyRamen is under construction. Stay tuned. 
