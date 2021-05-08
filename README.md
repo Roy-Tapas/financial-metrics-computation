@@ -25,8 +25,9 @@ Each record has two columns - (1) date and  (2) pnl amount
 
 ## How to run the script <br>
 Clone the entire "python-homework" repository into a local folder by issuing the following command from gitbash <br>
-$git clone https:\\
-
+```
+$git clone 
+```
 open Jupyter lab by issuing the following command from gitbash: <br>
 $Jupyter lab
 
@@ -51,7 +52,7 @@ python-homework <br>
      |------> README.md <br>
 
 
-## Scripts for PyRamen is under user acceptance testing. Stay tuned. 
+## Scripts for PyRamen is under construction. Stay tuned. 
 
 
 
