@@ -28,12 +28,12 @@ Clone the entire "python-homework" repository into a local folder by issuing the
 ```
 $git clone https://github.com/rtapask/python-homework.git
 ```
-open Jupyter lab by issuing the following command from gitbash: <br>
+Stay in the same gitbash directory and open Jupyter lab by issuing the following command from gitbash: <br>
 ```
 $Jupyter lab
 ```
 
-Then open main() in jupyter notebook and run each cells one after another
+python-homework repository will be shown on the left hand side panel of gitlab. Navigate to python-homework -> PyBank and then open mai() in jupyter notebook and run each cells one after another.
 
 ## Important points to note <br>
 Retail the folder structure as clones from github. Else path set inside the main is not going to work. 
