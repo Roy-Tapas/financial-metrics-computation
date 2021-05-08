@@ -1,13 +1,13 @@
 # python-homework repository
-Python homework for module-2
+Python homework for Module-2
 
 This repository contains the solved homework for "PyBank" - Python script for analyzing the financial records of a fictitious company 
 
 ## Solution components
-**1. Module fin_module.py**
+**1. Module fin_module.py** <br>
 For better mudularity, readibility, reusabaility and maintainability, core computation of business logic is separated from main and kept in this module in the form of a function as described following.
 
-**2. calculate_fin_metrics()**
+**2. calculate_fin_metrics()** <br>
 This function resides in the above mentioned module that houses the business logic of all core calculation for desired metrics
 This function takes a dictionary "budget_data" as argument with "date" as key and "pnl amount" as value in the dict and 
 return the required metrics in a python list
