@@ -26,17 +26,19 @@ Each record has two columns - (1) date and  (2) pnl amount
 ## How to run the script <br>
 Clone the entire "python-homework" repository into a local folder by issuing the following command from gitbash <br>
 ```
-$git clone 
+$git clone https://github.com/rtapask/python-homework.git
 ```
 open Jupyter lab by issuing the following command from gitbash: <br>
+```
 $Jupyter lab
+```
 
 Then open main() in jupyter notebook and run each cells one after another
 
 ## Important points to note <br>
 Retail the folder structure as clones from github. Else path set inside the main is not going to work. 
 Hierarchy inside repository should look like following:
-
+```
 python-homework <br>
      |
      |-------> PyBank <br>
@@ -50,7 +52,7 @@ python-homework <br>
         |---------------> menu_data.csv <br>
         |---------------> sales_data.csv <br>
      |------> README.md <br>
-
+```
 
 ## Scripts for PyRamen is under construction. Stay tuned. 
 
