@@ -1,7 +1,5 @@
-# python-homework repository
-Python homework for Module-2
-
-This repository contains the solved homework for "PyBank" - Python script for analyzing the financial records of a fictitious company 
+# Computation of financial metrics using Python
+This repository contains Python script for analyzing the financial records of a fictitious company and compute financial metrics for decision making 
 
 ## Solution components
 **1. Module fin_module.py** <br>
@@ -44,8 +42,7 @@ python-homework
         | 
         |---------------> fin_module.py 
         |---------------> main.ipynb 
-        |---------------> output.txt 
-     |------> PyRamen 
+        |---------------> output.txt  
      |------> Resources 
         |---------------> budget_data.csv 
         |---------------> menu_data.csv 
@@ -53,7 +50,6 @@ python-homework
      |------> README.md 
 ```
 
-## Scripts for PyRamen is under construction. Stay tuned. 
 
 
 
